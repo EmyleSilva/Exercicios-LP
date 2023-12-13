@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1696379276 source:/home/emyle/Documentos/II Semestre/LP2/Lista_encadeada/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"lista.h"
+
+1696378005 /home/emyle/Documentos/II Semestre/LP2/Lista_encadeada/lista.h
+
+1696379038 source:/home/emyle/Documentos/II Semestre/LP2/Lista_encadeada/lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1696422437 source:/home/aluno/Documentos/Lista_encadeada/lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1696422274 /home/aluno/Documentos/Lista_encadeada/lista.h
+
+1696421086 source:/home/aluno/Documentos/Lista_encadeada/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"lista.h"
+

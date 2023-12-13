@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1702069983 source:/home/emyle/Documentos/II Semestre/LP2/arquivos/main.c
+	<stdio.h>
+	<stdlib.h>
+	"arquivos.h"
+
+1702069228 /home/emyle/Documentos/II Semestre/LP2/arquivos/arquivos.h
+
+1702070769 source:/home/emyle/Documentos/II Semestre/LP2/arquivos/arquivos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arquivos.h"
+

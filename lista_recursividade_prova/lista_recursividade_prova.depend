@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1701907012 source:/home/emyle/Documentos/II Semestre/LP2/lista_recursividade_prova/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1701907290 source:/home/emyle/Documentos/II Semestre/LP2/lista_recursividade_prova/funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1701906844 /home/emyle/Documentos/II Semestre/LP2/lista_recursividade_prova/funcoes.h
+

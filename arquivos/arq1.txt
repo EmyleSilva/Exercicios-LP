@@ -1,0 +1,6 @@
+cidade1,40000
+cidade2,32000
+cidade3,10000
+cidade4,200000
+maiorC,100000
+menorC,5000

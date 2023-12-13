@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1698064590 source:/home/aluno/Documentos/recursividade/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1698064927 source:/home/aluno/Documentos/recursividade/recursivo.c
+	<stdlib.h>
+	<stdio.h>
+	"recursivo.h"
+
+1698064954 /home/aluno/Documentos/recursividade/recursivo.h
+
+1698517685 source:/home/emyle/Documentos/II Semestre/LP2/recursividade/main.c
+	<stdio.h>
+	<stdlib.h>
+	"recursivo.h"
+
+1698700671 /home/emyle/Documentos/II Semestre/LP2/recursividade/recursivo.h
+
+1698700646 source:/home/emyle/Documentos/II Semestre/LP2/recursividade/recursivo.c
+	<stdlib.h>
+	<stdio.h>
+	"recursivo.h"
+
